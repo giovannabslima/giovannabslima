@@ -9,7 +9,7 @@
  <div>
   <a href="https://https://github.com/giovannabslima">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannabslima&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabslima&layout=compact&langs_count-16&theme=radical">
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabslima&layout=compact&langs_count-16&theme=radical"> -->
  </div>
   <br>
   <div style="display: inline_block">
