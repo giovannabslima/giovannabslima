@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá mundo! Eu sou a Giovanna
 
-<!--
-**giovannabslima/giovannabslima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👻 Desenvolvimento Web
+- 👾 Estudando Análise e Desenvolvimento de Sistemas 
+- 👩‍💻 ela/dela
+##
+ <div>
+  <a href="https://https://github.com/giovannabslima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannabslima&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannabslima&layout=compact&langs_count-16&theme=radical">
+ </div>
+  <br>
+  <div style="display: inline_block">
+    <img align="center" alt="-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+<a href="https://www.linkedin.com/in/giovanna-lima-a429b6179/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-      badge&logo=linkedin&logoColor=white" target="_blank"></a> 
